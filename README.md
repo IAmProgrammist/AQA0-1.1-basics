@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/IAmProgrammist/AQA0-1.1-basics/actions/workflows/gradle.yml/badge.svg)](https://github.com/IAmProgrammist/AQA0-1.1-basics/actions/workflows/gradle.yml)# AQA0-1.1-basics    
+[![Java CI with Gradle](https://github.com/IAmProgrammist/AQA0-1.1-basics/actions/workflows/gradle.yml/badge.svg?branch=testng)](https://github.com/IAmProgrammist/AQA0-1.1-basics/actions/workflows/gradle.yml)
